@@ -6,8 +6,8 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nlnadialigia/fate-revelation?color=B20600&style=plastic">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/nlnadialigia/fate-revelation?color=B20600&style=plastic">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/nlnadialigia/fate-revelation?color=B20600&logoColor=B20600&style=plastic">
-  <a href="./LICENSE.md">
-  <img alt="GitHub" src="https://img.shields.io/github/license/nlnadialigia/fate-revelation?color=B20600&style=plastic">
+  <a href="LICENSE">
+  <img alt="GitHub" src="https://img.shields.io/github/license/nlnadialigia/fate-revelation?color=%23B20600&style=plastic">
   </a>
 </h1>
 <br>
