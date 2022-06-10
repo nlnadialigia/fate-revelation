@@ -45,10 +45,7 @@ function fazerPergunta() {
 
   elementoResposta.innerHTML = pergunta + respostas[numeroAleatorio]
 
-  inputPergunta.value = ''
-
   setTimeout(() => {
-    elementoResposta.style.opacity = 0
-    buttonPerguntar.removeAttribute('disabled', false)
+    window.location.reload(true)
   }, 3000);
 }
