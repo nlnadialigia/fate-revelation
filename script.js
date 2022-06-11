@@ -46,6 +46,6 @@ function fazerPergunta() {
   elementoResposta.innerHTML = pergunta + respostas[numeroAleatorio]
 
   setTimeout(() => {
-    window.location.reload(true)
+    window.location.reload(false)
   }, 3000);
 }
